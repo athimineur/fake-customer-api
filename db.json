@@ -1,0 +1,25 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "firstName": "Brian",
+	  "lastName": "Carducci",
+	  "city": "Avon",
+	  "state": "CT"
+    },
+	{
+      "id": 2,
+      "firstName": "Alex",
+	  "lastName": "Hutman",
+	  "city": "Bloomfield",
+	  "state": "CT"
+    },
+	{
+      "id": 3,
+      "firstName": "Brianna",
+	  "lastName": "Ricciardone",
+	  "city": "Santa Monica",
+	  "state": "CA"
+    }
+  ]
+}
